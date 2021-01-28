@@ -4,7 +4,8 @@ Object Oriented Programming in CPP
 Tutorials on OOP concepts in C++. Tutorials have covered various topics in OOP like class, object, various methods of object initialization, Constructor, Destructor, Inheritence, Polymorphism, friend functions, this pointer, virtual functions, purely virtual functions, abstract class, function overloading, constructor overloading, operator overloading etc.
 
 Blue print of the tutorials:
-tutorial 1  --> Defining a class and declaring an object
+
+**tutorial 1  --> Defining a class and declaring an object
 tutorial 2  --> Various methods of object initialization (on stack and on heap)
 tutorial 3  --> Defining member function ourside the class using scope resolution operator
 tutorial 4  --> Access specifiers in OOP CPP
